@@ -1,0 +1,23 @@
+.box{
+    border: 5px solid black;
+    padding:10px;
+    border-radius: 10px;
+    width: 230px;
+    height:230px;
+    position: relative;
+
+    
+}
+.button{
+    border: 5px solid blue;
+    padding-left: 15px;
+    border-radius: 30px;
+    position:absolute;
+    bottom:5px;
+    right:5px;
+    width:100px;
+    height:50px;
+    background-color: aquamarine;
+
+}
+    
